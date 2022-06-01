@@ -23,6 +23,7 @@ int main()
         printf("You have entered invalide number");
     }
 
+    // for voting
     // int age;
 
     // printf("Enter your age\n");
